@@ -1,6 +1,7 @@
 class Fibonacci:
 
     def getTerms(self, terms = 10):
+    #do this later
         f1 = 1
         f2 = 1
         if terms < 1:
